@@ -311,7 +311,7 @@ Each finding below is documented with sources in the corresponding analysis file
 
 ## Methodology and Tools
 
-This investigation was conducted by a human researcher who directed all research decisions, selected sources, evaluated findings, and wrote the public-facing posts. Claude Code (Anthropic's CLI tool, running Claude Opus) was used as a research assistant for:
+This investigation used Claude Code (Anthropic's CLI tool, running Claude Opus) was used as a research assistant for:
 
 - Bulk data processing: parsing 4,433 IRS Schedule I grant records, 59,736 DAF recipients, 132MB of Colorado TRACER campaign finance data, and IRS Business Master File extracts covering all US tax-exempt organizations
 - Cross-referencing findings across 24 analysis files and identifying patterns that span multiple research threads
